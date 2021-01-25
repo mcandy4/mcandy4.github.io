@@ -13,7 +13,7 @@ h2 {
   font-family: "Garamond", serif;
   text-align: center;
   background-color: rgb(255, 255, 255);
-  text-transform: lowercase;
+  text-transform: uppercase;
   color: rgb(64, 120, 120);
   padding: 20px 20px 20px 20px;
   font-size: 32px;
@@ -22,7 +22,7 @@ h2 {
 h3 {
   font-family: "Garamond", serif;
   text-align: center;
-  text-transform: lowercase;
+  text-transform: uppercase;
   color: rgb(255, 255, 255);
   letter-spacing: 5px;
   font-size: 20px;
@@ -32,6 +32,7 @@ h3 {
 h4 {
   font-family: "Garamond", serif;
   text-align: center;
+  text-transform: uppercase;
   color: rgb(255, 255, 255);
   letter-spacing: 2px;
   text-indent: -30px;

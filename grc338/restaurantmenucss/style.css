@@ -3,13 +3,13 @@ background-color: rgb(64, 120, 120);
 }
 
 h1 {
-  font-family: Garamond, serif;
+  font-family: "Garamond", serif;
   text-align: center;
 color: rgb(255, 255, 255);
 }
 
 h2 {
-  font-family: Garamond, serif;
+  font-family: "Garamond", serif;
   text-align: center;
   background-color: rgb(255, 255, 255);
   text-transform: uppercase;
@@ -18,13 +18,13 @@ h2 {
 }
 
 h3 {
-  font-family: Garamond, serif;
+  font-family: "Garamond", serif;
   text-align: center;
   color: rgb(255, 255, 255);
 }
 
 h4 {
-  font-family: Garamond, serif;
+  font-family: "Garamond", serif;
   text-align: center;
   color: rgb(255, 255, 255);
    text-transform: uppercase;

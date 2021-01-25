@@ -22,7 +22,7 @@ h2 {
 h3 {
   font-family: "Garamond", serif;
   text-align: center;
-  text-transform: uppercase;
+  text-transform: lowercase;
   color: rgb(255, 255, 255);
   letter-spacing: 5px;
   font-size: 20px;

@@ -7,14 +7,14 @@ h1 {
     text-align: center;
     color: rgb(255, 255, 255);
     font-size: 50px;
-    text-transform: uppercase;
+    text-transform: lowercase;
 }
 
 h2 {
     font-family: "Garamond", serif;
     text-align: center;
     background-color: rgb(255, 255, 255);
-    text-transform: uppercase;
+    text-transform: lowercase;
     color: rgb(83, 133, 165);
     padding: 20px 20px 20px 20px;
     font-size: 32px;
@@ -23,7 +23,7 @@ h2 {
 h3 {
     font-family: "Garamond", serif;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: lowercase;
     color: rgb(255, 255, 255);
     letter-spacing: 5px;
     font-size: 20px;
@@ -33,7 +33,7 @@ h3 {
 h4 {
     font-family: "Garamond", serif;
     text-align: center;
-    text-transform: uppercase;
+    text-transform: lowercase;
     color: rgb(255, 255, 255);
     letter-spacing: 2px;
     text-indent: -30px;

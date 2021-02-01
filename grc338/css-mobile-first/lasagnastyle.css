@@ -47,8 +47,14 @@ h6 {
 }
 
 ul {
-   list-style-type: circle;
+   text-align: center;
    font-family: Gill Sans, sans-serif;
    font-weight: 200;
    
+}
+
+ol {
+ text-align: center;
+   font-family: Gill Sans, sans-serif;
+   font-weight: 200;  
 }

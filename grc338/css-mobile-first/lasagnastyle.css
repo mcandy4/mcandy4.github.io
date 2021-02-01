@@ -18,7 +18,12 @@ body {
 h1 {
    font-family: Gill Sans, sans-serif;
    text-transform: uppercase;
-   font-weight: 200;
+   font-weight: 300;
    color: rgb(255, 141, 75);
    letter-spacing: 5px;
+}
+
+h2 {
+font-family: Gill Sans, sans-serif;
+     font-weight: 300;
 }

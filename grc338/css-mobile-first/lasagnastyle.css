@@ -43,4 +43,12 @@ h3 {
 h6 {
    font-family: Gill Sans, sans-serif;
    font-weight: 200;
+   text-indent: 20 px;
+}
+
+ul {
+   list-style-type: circle;
+   font-family: Gill Sans, sans-serif;
+   font-weight: 200;
+   
 }

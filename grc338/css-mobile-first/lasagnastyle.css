@@ -39,3 +39,8 @@ h3 {
    text-transform: uppercase;
     letter-spacing: 5px; 
 }
+
+h6 {
+   font-family: Gill Sans, sans-serif;
+   font-weight: 200;
+}

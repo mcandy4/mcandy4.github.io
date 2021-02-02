@@ -27,7 +27,7 @@ h1 {
    font-family: Gill Sans, sans-serif;
    text-transform: uppercase;
    font-weight: 500;
-   color: rgb(255, 141, 75);
+   color: rgb(255, 110, 44);
    letter-spacing: 5px;
    margin-left: 40px;
    margin-right: 40px;
@@ -51,7 +51,7 @@ h3 {
     margin-right: 40px;
    text-transform: uppercase;
     letter-spacing: 5px; 
-    color: rgb(255, 141, 75);
+    color: rgb(255, 110, 44);
     margin-top: 0px;
    padding-top: -20px;
 }

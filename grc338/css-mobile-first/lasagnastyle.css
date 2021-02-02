@@ -11,7 +11,7 @@ img {
 /*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
 
 img {
-  max-width: 75%;
+  max-width: 90%;
   height: auto;
    display: block;
   margin-left: auto;

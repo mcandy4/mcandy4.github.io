@@ -41,7 +41,7 @@ font-family: Gill Sans, sans-serif;
     text-transform: lowercase;
     margin-left: 40px;
     margin-right: 40px;
-   color: rgb(255,255,255);
+    color: rgb(255, 245, 221);
 }
 
 h3 {
@@ -61,7 +61,7 @@ h6 {
    font-weight: 200;
     margin-left: 40px;
     margin-right: 40px;
-   color: rgb(255,255,255);
+    color: rgb(255, 245, 221);
 }
 
 ul {
@@ -70,7 +70,7 @@ ul {
    font-weight: 200;
     margin-left: 50px;
     margin-right: 40px;
-   color: rgb(255,255,255);
+    color: rgb(255, 245, 221);
 }
 
 ol {
@@ -79,7 +79,7 @@ ol {
    list-style-type: numbers;
     margin-left: 50px;
     margin-right: 40px;
-   color: rgb(255,255,255);
+    color: rgb(255, 245, 221);
 }
 
 figure {
@@ -88,7 +88,7 @@ figure {
    font-weight: 200; 
     margin-left: 40px;
    margin-right: 40px;
-   color: rgb(255,255,255);
+    color: rgb(255, 245, 221);
    
 }
    

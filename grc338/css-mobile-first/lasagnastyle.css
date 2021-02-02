@@ -13,7 +13,7 @@ img {
 img {
   max-width: 50%;
   height: auto;
-  image-orientation: 90deg;
+   transform: rotate(90deg);
 }
 
 body {

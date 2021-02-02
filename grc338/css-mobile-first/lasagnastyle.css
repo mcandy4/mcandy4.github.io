@@ -14,9 +14,6 @@ img {
   max-width: 75%;
   height: auto;
    transform: rotate(90deg);
-   display: block;
-  margin-top: auto;
-  margin-bottom: auto;
 }
 
 body {

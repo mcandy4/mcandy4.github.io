@@ -20,7 +20,7 @@ img {
 }
 
 body {
-    background-color: rgb(255,255,255);
+    background-color: rgb(0,0,0);
 }
 
 h1 {
@@ -41,6 +41,7 @@ font-family: Gill Sans, sans-serif;
     text-transform: lowercase;
     margin-left: 40px;
     margin-right: 40px;
+   color: rgb(255,255,255);
 }
 
 h3 {
@@ -60,6 +61,7 @@ h6 {
    font-weight: 200;
     margin-left: 40px;
     margin-right: 40px;
+   color: rgb(255,255,255);
 }
 
 ul {
@@ -68,6 +70,7 @@ ul {
    font-weight: 200;
     margin-left: 50px;
     margin-right: 40px;
+   color: rgb(255,255,255);
 }
 
 ol {
@@ -76,6 +79,7 @@ ol {
    list-style-type: numbers;
     margin-left: 50px;
     margin-right: 40px;
+   color: rgb(255,255,255);
 }
 
 figure {
@@ -84,6 +88,7 @@ figure {
    font-weight: 200; 
     margin-left: 40px;
    margin-right: 40px;
+   color: rgb(255,255,255);
    
 }
    

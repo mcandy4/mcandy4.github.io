@@ -32,8 +32,8 @@ h1 {
    font-weight: 500;
    color: rgb(255, 141, 75);
    letter-spacing: 5px;
-   margin-left: 20px;
-   margin-right: 20px;
+   margin-left: 40px;
+   margin-right: 40px;
   
 }
 
@@ -42,15 +42,15 @@ font-family: Gill Sans, sans-serif;
      font-weight: 300;
    letter-spacing: 2px;
     text-transform: lowercase;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 h3 {
   font-family: Gill Sans, sans-serif;
      font-weight: 300;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
    text-transform: uppercase;
     letter-spacing: 5px; 
     color: rgb(255, 141, 75);
@@ -59,16 +59,16 @@ h3 {
 h6 {
    font-family: Gill Sans, sans-serif;
    font-weight: 200;
-    margin-left: 20px;
-    margin-right: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 ul {
    
    font-family: Gill Sans, sans-serif;
    font-weight: 200;
-    margin-left: 40px;
-    margin-right: 20px;
+    margin-left: 60px;
+    margin-right: 40px;
    
 }
 
@@ -76,15 +76,15 @@ ol {
    font-family: Gill Sans, sans-serif;
    font-weight: 200;  
    list-style-type: numbers;
-    margin-left: 40px;
-    margin-right: 20px;
+    margin-left: 60px;
+    margin-right: 40px;
 }
 
 figure {
     font-family: Gill Sans, sans-serif;
    font-weight: 200; 
-    margin-left: 20px;
-   margin-right: 20px;
+    margin-left: 40px;
+   margin-right: 40px;
    
 }
    

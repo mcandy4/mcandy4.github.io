@@ -11,12 +11,12 @@ img {
 /*By the way, when we use the slash-asterisk combo, it’s a comment on the CSS and it’s meant for human beings. The machine knows it is not supposed to process anything until it finds a asterisk-slash combo that ends the comment on the CSS. */
 
  .resize {
-    width: 400px;
+    width: 300px;
     height: auto;
 }
 
 .resize {
-    width: 300px;
+    width: 200px;
     height: auto;
 }
 
@@ -32,6 +32,8 @@ h1 {
    font-weight: 500;
    color: rgb(255, 141, 75);
    letter-spacing: 5px;
+   margin: 20px;
+  
   
 }
 
@@ -40,12 +42,13 @@ font-family: Gill Sans, sans-serif;
      font-weight: 300;
    letter-spacing: 2px;
     text-transform: lowercase;
+    margin: 20px;
 }
 
 h3 {
   font-family: Gill Sans, sans-serif;
      font-weight: 300;
-   
+    margin: 20px;
    text-transform: uppercase;
     letter-spacing: 5px; 
     color: rgb(255, 141, 75);
@@ -54,12 +57,14 @@ h3 {
 h6 {
    font-family: Gill Sans, sans-serif;
    font-weight: 200;
+    margin: 20px;
 }
 
 ul {
    
    font-family: Gill Sans, sans-serif;
    font-weight: 200;
+    margin: 20px;
    
 }
 
@@ -67,12 +72,14 @@ ol {
    font-family: Gill Sans, sans-serif;
    font-weight: 200;  
    list-style-type: numbers;
+    margin: 20px;
 }
 
 figure {
    text-align: center;
     font-family: Gill Sans, sans-serif;
-   font-weight: 200;  
+   font-weight: 200; 
+    margin: 20px;
    
 }
    

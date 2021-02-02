@@ -52,6 +52,7 @@ h3 {
     letter-spacing: 5px; 
     color: rgb(255, 141, 75);
     margin-top: 0px;
+   padding-top: -10px;
 }
 
 h6 {

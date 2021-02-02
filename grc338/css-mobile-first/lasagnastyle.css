@@ -38,12 +38,13 @@ h3 {
    text-align: center; 
    text-transform: uppercase;
     letter-spacing: 5px; 
+    color: rgb(255, 141, 75);
 }
 
 h6 {
    font-family: Gill Sans, sans-serif;
    font-weight: 200;
-   text-indent: 20 px;
+   padding: 20px;
 }
 
 ul {

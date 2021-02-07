@@ -33,7 +33,7 @@ div.container{
 
 figure{
     display:grid;
-    grid-template-columns: 80% auto;
+    grid-template-columns: 60% auto;
 		
 	
 }

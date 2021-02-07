@@ -27,17 +27,22 @@ body {
 }
 
 div.container{
-    max-width: 55em;
+    max-width: 50em;
     margin:0 auto;   
 }
 figure{
     display:grid;
-    grid-template-columns: 60% auto;
+    grid-template-columns: 70% auto;
+		padding-left: 5em;
+	padding-right: 5em;
 	
 }
 main{
     display: grid;
     grid-template-columns: 40% auto;
+	padding-left: 5em;
+	padding-right: 5em;
+	
 }
 
 h1 {

@@ -115,4 +115,7 @@ figure {
 
 figcaption {
 	padding:2em;
+	font-family: Gill Sans, sans-serif;
+   font-size: 14px;
+	text-align:center;
 }

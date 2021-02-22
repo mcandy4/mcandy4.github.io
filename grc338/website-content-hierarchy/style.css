@@ -53,10 +53,12 @@ h2{
     font-family: Gill Sans, sans-serif;
     font-weight: 600;
     font-size:1.5em;
+    margin-bottom: 0.5em;
     text-align: center;
     letter-spacing: 0.2em;
     text-transform: uppercase;
     color: #729473
+
 
     
 }
@@ -67,6 +69,7 @@ h2{
      text-decoration: underline;
      font-size: 1.2em;
      letter-spacing: .1em;
+  
 
 }
 
@@ -76,6 +79,10 @@ font-family: Gill Sans, sans-serif;
     font-size: 1.1em;
     text-align: center; 
     padding-right:2em;
+    margin-bottom: 0.6em;
+    margin-top: 1em;
+    
+  
 }
 
 
@@ -83,10 +90,10 @@ p{
   font-family: Gill Sans, sans-serif; 
     font-size: 1em;
     text-align: center;
-    margin:2em;
-	margin-top:0.5em;
-	margin-bottom: 0.5em;
+    margin:3em;
     padding-right:2em;
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
 }
 
 li{

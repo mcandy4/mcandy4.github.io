@@ -1,7 +1,90 @@
 /*CSS DOCUMENT*/
 
 img {
-    width: 100%; 
+    width: 90%; 
+    margin: 0.5em;
+    align-content: center;
 }
 
-/*Please don’t change this CSS stylesheet for the content hierarchy assginment */
+figure{
+    margin: 0em 1.5em 0em 1.5em;
+}
+body{
+	background-color: #FCF8E8;
+    text-align: center;
+}
+div.container{
+    text-align: center;  
+}
+
+#logo{
+    width: 10em;
+    height: auto;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+nav ul{
+    padding: .8em;
+    background-color: #c6802a;
+    margin: 0.5em;
+}
+
+nav ul li {
+    list-style-type: none;
+display: inline;
+    margin: 1.5em;
+    font-family: Gill Sans, sans-serif;
+   text-transform: uppercase;
+   font-weight: 500;
+    text-decoration: none;
+}
+nav ul li a {
+    text-decoration: none;
+     color:#ffffff;
+    font-family: Gill Sans, sans-serif;
+   text-transform: uppercase;
+   font-weight: 500;
+}
+
+h2{
+    font-family: Gill Sans, sans-serif;
+    font-weight: 600;
+    font-size:1.5em;
+    text-align: center;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: #729473
+
+    
+}
+ h3 { 
+    font-family: Gill Sans, sans-serif;
+     font-weight: 500;
+    text-transform: uppercase;
+     text-decoration: underline;
+     font-size: 1.2em;
+     letter-spacing: .1em;
+    padding-left: 1.6em;
+}
+
+h4{
+font-family: Gill Sans, sans-serif;
+     font-weight: 500;
+    font-size: 1.1em;
+    text-align: center;
+}
+
+p{
+  font-family: Gill Sans, sans-serif; 
+    font-size: 1em;
+    text-align: center;
+    margin:3em;
+    line-height: 0em;
+}
+
+li{
+    list-style-type: none;
+}

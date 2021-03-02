@@ -108,6 +108,8 @@ footer{
 
 	main{
 	max-width:60em;
+		display:block;
+		margin: auto;
 	}
 #logo {
 width: 7em;

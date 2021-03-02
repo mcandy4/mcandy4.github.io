@@ -114,9 +114,10 @@ width: 7em;
 	text-align: left;
 	}
 	
-	.food, .espresso, .specialty {
-	text-align: left;
+	img {
+	display: block;
+	max-width: 40em;
+	margin: auto;
 	}
-
 	
 	}

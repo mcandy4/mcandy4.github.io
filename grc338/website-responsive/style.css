@@ -113,6 +113,10 @@ width: 7em;
 	#menu{
 	text-align: left;
 	}
+	
+	.food, .espresso, .specialty {
+	text-align: left;
+	}
 
 	
 	}

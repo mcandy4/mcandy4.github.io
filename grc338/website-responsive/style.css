@@ -105,12 +105,9 @@ footer{
 }
 
 @media screen and (min-width: 40em){
-    div.container{
-	max-width: 60em;
-	margin: auto;
+	
+#logo {
+width: 5em;
 	}
-	    
-	    #logo {
-	    width: 20%;
-	    }
+	
 	}

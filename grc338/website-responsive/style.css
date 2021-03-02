@@ -93,8 +93,10 @@ img {
       header{
       text-align: left;
          display: grid;
-         margin-top: 3em;
+         margin-top: 5em;
          grid-template-columns:auto auto;
+           background-color:none;
+           color:#c6802a;
       }
       
      #logo {

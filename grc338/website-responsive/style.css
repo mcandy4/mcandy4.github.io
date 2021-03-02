@@ -105,7 +105,10 @@ footer{
 }
 
 @media screen and (min-width: 40em){
-	
+
+	main{
+	max-width:40em;
+	}
 #logo {
 width: 7em;
 	}

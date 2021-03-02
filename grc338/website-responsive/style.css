@@ -89,7 +89,16 @@ img {
          display:block;
          margin: auto;
     }
+      
+      header{
+      text-align: left;
+         display: grid;
+         margin-top: 3em;
+         grid-template-columns:auto auto;
+      }
+      
      #logo {
+          display:grid;
          width: 7em;
     }
      img {

@@ -91,12 +91,11 @@ img {
     }
       
       header{
-      text-align: left;
+      text-align: right;
          display: grid;
          margin-top: 5em;
          grid-template-columns:auto auto;
-           background-color:none;
-           color:#c6802a;
+     
       }
       
      #logo {

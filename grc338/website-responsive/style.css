@@ -107,7 +107,7 @@ footer{
 @media screen and (min-width: 60em){
 
 	main{
-	max-width:60em;
+	max-width:40em;
 		display:block;
 		margin: auto;
 	}

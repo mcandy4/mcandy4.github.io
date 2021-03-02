@@ -108,6 +108,12 @@ footer{
     div.container{
 	max-width: 60em;
 	margin: auto;
+	    
+	    figure{
+	max-width: 60em;
+	margin: auto;
+	margin-top: 2em;
+}
 }
   #menu{
 	display: grid;
